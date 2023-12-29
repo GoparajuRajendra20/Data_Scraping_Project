@@ -21,3 +21,4 @@ def fetch_data_from_api(api_url):
     "response": reponse_in_text_format
     }
     return content
+    
